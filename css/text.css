@@ -1,0 +1,8 @@
+.text__bold {
+    font-weight: bold;
+}
+
+.text__style {
+    font-style: italic;
+    font-size: medium;
+}

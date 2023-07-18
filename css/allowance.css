@@ -1,0 +1,19 @@
+.allowance {
+    border: 3px solid rgb(125, 193, 245);
+}
+
+.allowance__header {
+    margin: 20px 0;
+    font-weight: 700;
+    font-size: 20px;
+    color: #012174;
+    padding-left: 40px;
+}
+
+.allowance__list {
+    padding: 0 50px;
+}
+
+.allowance__item {
+    margin-bottom: 20px;
+}

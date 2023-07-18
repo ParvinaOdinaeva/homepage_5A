@@ -1,0 +1,19 @@
+.link {
+    color: #147e9e;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.link:focus {
+    outline: 1px solid currentColor;
+}
+
+.link:hover {
+    color: #094964;
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+.link:active {
+    color: rgb(17, 46, 174);
+}

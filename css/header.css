@@ -1,0 +1,41 @@
+.header__main {
+    width: auto;
+    text-align: left;
+    background-color: rgb(33, 95, 157);
+    color: white;
+    /* background-image: url(https://i.postimg.cc/Px2gv7LZ/header-background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed; */
+}
+
+
+.header__title {
+    padding: 50px 250px;
+    margin: 30px auto;
+    max-width: 1000px;
+    color: #fff;
+    font-size: 32px;
+    line-height: 32px;
+    letter-spacing: 1px;
+    margin: 20px 0;
+    font-weight: 600;
+}
+
+
+.header__section {
+    margin: 25px 0;
+    color: #012174;
+}
+
+.header__point {
+    margin: 20px 0;
+    color: #012174;
+}
+
+
+.header__section--priceComparison {
+    text-align: center;
+    font-weight: bold;
+    color: #012174;
+}

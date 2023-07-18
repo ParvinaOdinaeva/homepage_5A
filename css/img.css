@@ -1,0 +1,6 @@
+.image {
+    max-width: 800px;
+    padding: 5px;
+    background-color: rgba(139, 234, 226, 0.108);
+    border-radius: 10px;
+}

@@ -1,0 +1,21 @@
+.additional {
+    font-weight: 600;
+    margin: 40px 0;
+    padding: 30px 20px;
+    color: #012174;
+    background-color: rgba(242, 243, 245, .4);
+    border-radius: 10px;
+}
+
+.additional__author {
+    margin: 20px 0;
+    color: #20a3dd;
+    font-size: 12px;
+}
+
+.additional__cost {
+    margin: 40px 0;
+    padding: 40px 30px;
+    color: #065c82;
+    border: 2px solid rgb(125, 193, 245);
+}
