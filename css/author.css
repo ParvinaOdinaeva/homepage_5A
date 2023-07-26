@@ -3,14 +3,11 @@
     grid-template-columns: 40px auto;
     align-items: center;
     grid-gap: 10px;
-    max-width: 250px;
     padding: 10px 250px;
 }
 
-
-
 .author__data {
-    color: #f3f0f0;
+    color: #012174;
     font-size: 12px;
     opacity: .7;
 }
