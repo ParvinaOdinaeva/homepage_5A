@@ -12,7 +12,7 @@ Demo
 
 ### Technologies used:
 1. HTML
-1. CSS (using Block Element Modifier convention & Normalize.css)
+1. CSS (using Block Element Modifier convention, Normalize.css & Grid)
 1. JavaScript
 1. Git 
 1. Markdown
